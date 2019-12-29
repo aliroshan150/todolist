@@ -57,7 +57,7 @@ export class TodoComponent implements OnInit {
         this.errorMessage = 'Duplicate value!';
       }
     } else {
-      this.errorMessage = 'Please Enter title for Todo';
+      this.errorMessage = 'Please enter title for todo';
     }
   }
 
