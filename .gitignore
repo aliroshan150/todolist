@@ -44,3 +44,12 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+node_modules
+.env
+.idea/
+dist/
+scratch/
+build.txt
+docs/
+test
+logs/
